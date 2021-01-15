@@ -1,6 +1,6 @@
 ## Crump Cocktails
 
-Crump Cocktails is a stylish, Art Deco inspired cocktail menu. It's designed for at-home cocktail makers and mixologists who want to show visitors the drinks they can make and offers simple reminders for how the cocktails are made.  Also included is a bar cabinet to keep track of what bottles are in stock.
+Welcome to the Hotel Crump! Where the Jazz Age never died and everyone visits to imbibe. Endlessly customizable to suit each visitor’s particular taste, the Crump Cocktail menu is a stylish companion to every home mixologist. Know at a glance whether you’ve got the ingredients in stock and the special ratios that make those drinks sparkle.  Share your recipes with other guests, or create and share your own custom menus for private events.
 
 ## Privacy Policy
 

@@ -27,10 +27,14 @@ section {
     transform: rotate(0.75turn);
 }
 
+.corner.bottom {
+    bottom: 0;
+}
+
 .corner.bottom.left {
     transform: rotate(0.25turn);
 }
 .corner.bottom.right {
     transform: rotate(0.5turn);
-    right: 0;
+    // right: 0;
 }

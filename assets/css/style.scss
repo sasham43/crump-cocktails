@@ -42,3 +42,10 @@ section {
 .corner.bottom.right {
     transform: rotate(0.25turn);
 }
+
+header,
+footer {
+    box-shadow: 5px 5px 15px 5px #9E9E9E;
+    padding: 10px;
+    text-align: center;
+}

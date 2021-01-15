@@ -25,6 +25,11 @@ section {
 }
 .corner.left {
     transform: rotate(0.75turn);
+    left: -20px;
+}
+
+.corner.top {
+    top: -10px;
 }
 
 .corner.bottom {
@@ -32,9 +37,9 @@ section {
 }
 
 .corner.bottom.left {
-    transform: rotate(0.25turn);
+    transform: rotate(0.5turn);
 }
 .corner.bottom.right {
-    transform: rotate(0.5turn);
+    transform: rotate(0.25turn);
     // right: 0;
 }

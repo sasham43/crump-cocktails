@@ -11,7 +11,26 @@
     font-family: 'Poiret One', cursive;
 }
 
+section {
+    position: relative;
+}
 .corner {
     width: 35px;
     height: 25px;
+    position: absolute;
+}
+
+.corner.right {
+    right: 0;
+}
+.corner.left {
+    transform: rotate(0.75turn);
+}
+
+.corner.bottom.left {
+    transform: rotate(0.25turn);
+}
+.corner.bottom.right {
+    transform: rotate(0.5turn);
+    right: 0;
 }

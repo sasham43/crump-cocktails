@@ -21,7 +21,7 @@ section {
 }
 
 .corner.right {
-    right: 0;
+    right: -10px;
 }
 .corner.left {
     transform: rotate(0.75turn);
@@ -41,5 +41,4 @@ section {
 }
 .corner.bottom.right {
     transform: rotate(0.25turn);
-    // right: 0;
 }
